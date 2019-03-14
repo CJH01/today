@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">历史上的今天</string>
+    <string name="item_title">标题：</string>
+    <string name="item_time">时间：</string>
+    <string name="title">历史上的今天：</string>
+    <string name="et_hint">请输入日期（如07月12日：0712）</string>
+    <string name="btn_search">点击查看</string>
+</resources>
